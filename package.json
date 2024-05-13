@@ -7,6 +7,9 @@
     "start": "nodemon --exec babel-node src/index.js",
     "test": "echo \"No test specified\" && exit 0"
   },
+  "engines": {
+    "node": ">=18.18.0 <19.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
